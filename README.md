@@ -100,8 +100,3 @@ The script evaluates and compares the performance of multiple models, providing:
   - Performance metrics
   - Confusion matrix visualization
 
-## Real-time Deployment Considerations
-The README includes a section discussing how the HAR pipeline could be adapted for real-time or on-device use, including:
-- Model optimization techniques
-- Feature extraction optimization
-- Deployment considerations 
